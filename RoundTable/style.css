@@ -1,0 +1,187 @@
+/* login */
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #B91646;
+    color: white;
+    }
+
+    li {
+        display: inline;
+    }
+
+    li:last-child {
+        border-right: none;
+    }
+
+    li a {
+        display: block;
+        float: right;
+        color: white;
+        text-align: center;
+        padding: 15px 25px;
+        text-decoration: none;
+        color: white;
+        font-family: Helvetica;
+    }
+
+    .rt {
+        height: 10vh;
+        align-items: center;
+        justify-content: center;
+        padding: 100px 300px;
+        position: fixed;
+        width: 50%;
+        line-height: 1.5;
+        vertical-align: middle;
+    }
+
+    .daftar {
+        color:#B91646;
+    }
+
+    .daftar {
+        color:#B91646;
+    }
+
+    .navbar {
+        width: 100%;
+        background-color: #B91646;
+        overflow: auto;
+        font-family: Helvetica;
+      }
+      
+      /* Navbar links */
+      .navbar a {
+        float: left;
+        text-align: center;
+        padding: 20px;
+        color: white;
+        text-decoration: none;
+        font-size: 16px;
+      }
+      
+      /* Navbar links on mouse-over */
+      .navbar .header-right a:hover {
+        background-color: #FFFFFF;
+        color: #B91646;
+      }
+
+      .header-right {
+        float: right;
+      }
+      
+      @media screen and (max-width: 500px) {
+        .navbar a {
+          float: none;
+          display: block;
+        }
+      }
+      /*signup.php*/
+      .signup {
+        height: 10vh;
+        align-items: center;
+        justify-content: center;
+        padding: 150px 300px 150px;
+        position: fixed;
+        width: 50%;
+        line-height: 1.5;
+        vertical-align: middle;
+              background-image: url("signup.png");
+              background-repeat: no-repeat;
+              background-position: fixed;
+              background-size: 100%;
+        }
+        /* form */
+        .formtext {
+          background-image: url(textbox.png);
+          width: 300px;
+          height: 25px;
+          left: 510px;
+          top: 509px;
+          border: 0px;
+          text-align: center;
+          background-size: 100%;
+        }
+        .submit {
+          background-image: url(submitbox.png);
+          width: 100px;
+          height: 25px;
+          left: 500px;
+          top: 500px;
+          border: 0px;
+          text-align: center;
+          background-repeat: no-repeat;
+          color: #FFFFFF;
+          background-size: 100%;
+        }
+        .header {
+          text-align: center;
+          border: 0px;
+          width: 300px;
+          height: 25px;
+        }
+        .nama {
+          width: 500px;
+          height: 50px;
+          border: 0px;
+          left: 500px;
+          top: 500px;
+        }
+        .em {
+          border: 0px;
+          right: 100px;
+          top: 500px;
+        }
+      /*akun.php*/
+      .editprofile {
+        height: 10vh;
+        align-items: center;
+        justify-content: center;
+        padding: 150px 300px 150px;
+        position: fixed;
+        width: 50%;
+        line-height: 1.5;
+        vertical-align: middle;
+        }
+        .formtext {
+            background-image: url(textbox.png);
+            width: 300px;
+            height: 25px;
+            left: 510px;
+            top: 509px;
+            border: 0px;
+            text-align: center;
+            background-size: 100%;
+          }
+        .submit {
+          background-image: url(submitbox.png);
+          width: 100px;
+          height: 25px;
+          left: 500px;
+          top: 500px;
+          border: 0px;
+          text-align: center;
+          background-repeat: no-repeat;
+          color: #FFFFFF;
+          background-size: 100%;
+        }
+        .header {
+          text-align: center;
+          border: 0px;
+          width: 300px;
+          height: 25px;
+        }
+        .nama {
+          width: 500px;
+          height: 50px;
+          border: 0px;
+          left: 500px;
+          top: 500px;
+        }
+        .em {
+          border: 0px;
+          right: 100px;
+          top: 500px;
+        }
+        
