@@ -5,3 +5,4 @@ Yang dikerjakan oleh:
 Avalent Divasea
 Muh Devano Alfarizy
 Jupriola Jeskris Soleman Tualaka
+Sola Gracia Deo Andrew
